@@ -7,7 +7,7 @@ Men universitet talabasi va dasturchiman. Hozirda junior darajasidan middle dara
 
 - 🔭 **Hozirda ishlayapman:** [TaskFlow](https://github.com/HHZPROGRAMMER) (Laravel asosidagi loyiha)
 - 🌱 **O'rganyapman:** Flutter va Python foundation
-- 💬 **Mendan so'rang:** PHP, Laravel, Flutter va algoritmik masalalar haqida
+- 💬 **Mendan so'rang:** PHP, Laravel, algoritmik masalalar haqida
 - ⚡ **Qiziqarli fakt:** LeetCode-da 170 dan ortiq masalalarni yechganman
 
 ---
@@ -18,8 +18,6 @@ Men universitet talabasi va dasturchiman. Hozirda junior darajasidan middle dara
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 <p align="left">
