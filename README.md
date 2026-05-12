@@ -1,39 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hasan%20Hafizov&fontSize=70" />
-</div>
 
-## Salom! Men Hasan 👋 
-Men universitet talabasi va dasturchiman. Hozirda junior darajasidan middle darajasiga o'tish jarayonidaman.
-
-- 🔭 **Hozirda ishlayapman:** [TaskFlow](https://github.com/HHZPROGRAMMER) (Laravel asosidagi loyiha)
-- 🌱 **O'rganyapman:** Flutter va Python foundation
-- 💬 **Mendan so'rang:** PHP, Laravel, algoritmik masalalar haqida
-- ⚡ **Qiziqarli fakt:** LeetCode-da 170 dan ortiq masalalarni yechganman
-
----
-
-### 🛠 Texnologiyalar va Ko'nikmalar
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hasan%20Hafizov&fontSize=70" />
 </div>
 
 <div align="center">
-  <h3>Dasturchi | Backend (Laravel) & Mobile (Flutter) 💻</h3>
+  <h3>Dasturchi | Backend (Laravel) | 💻</h3>
   <p>Junior darajasidan Middle darajasiga o'tayotgan, samarali tizimlar yaratishga ishtiyoqi baland dasturchiman.</p>
 </div>
 
