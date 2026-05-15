@@ -42,15 +42,6 @@
 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
 
 ---
-
-### 📈 GitHub Statistikam
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HHZPROGRAMMER&show_icons=true&theme=vue-dark&count_private=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHZPROGRAMMER&layout=compact&theme=vue-dark" />
-</p>
-
----
-
 ### 📫 Men bilan bog'laning:
 <div align="left">
   <a href="LINKEDIN_LINKINGIZ"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
