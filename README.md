@@ -36,14 +36,6 @@
 
 ### 📊 GitHub Statistikam
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHZPROGRAMMER&layout=compact&theme=radical&hide_border=true" width="300px" />
-      </td>
-    </tr>
-  </table>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HHZPROGRAMMER&theme=radical&hide_border=true" width="710px" />
 </div>
 
