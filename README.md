@@ -39,9 +39,6 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=HHZPROGRAMMER&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400px" />
-      </td>
-      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHZPROGRAMMER&layout=compact&theme=radical&hide_border=true" width="300px" />
       </td>
     </tr>
