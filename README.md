@@ -34,11 +34,6 @@
 
 ---
 
-### 📊 GitHub Statistikam
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HHZPROGRAMMER&theme=radical&hide_border=true" width="710px" />
-</div>
-
 ---
 
 ### 📫 Men bilan bog'laning:
