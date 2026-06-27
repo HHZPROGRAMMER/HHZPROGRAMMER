@@ -17,10 +17,21 @@
 ---
 
 ### 📖 Men haqimda
-- 🔭 **Hozirda:** [TaskFlow](https://github.com/HHZPROGRAMMER) loyihasi ustida ishlayapman (Laravel + RBAC).
-- 🌱 **O'rganyapman:** Flutter arxitekturasi va Python ekotizimi.
-- 🎯 **Maqsad:** Murakkab backend arxitekturalarini mukammal egallash.
-- ⚡ **Qiziqarli fakt:** LeetCode-da 170 dan ortiq algoritmik masalalarni PHP-da yechganman.
+### 👋 Hey there! I'm Hasan
+
+🚀 A passionate **Backend Developer** who loves building powerful web apps with **PHP & Laravel**, and occasionally dabbling in **Python** magic.
+
+📱 When I'm not writing server-side code, you'll find me crafting beautiful cross-platform apps with **Flutter**.
+
+📊 Curious about data? So am I! I enjoy exploring **Data Analytics** and experimenting with **Machine Learning** models to turn raw data into real insights.
+
+🎨 I also speak the language of the web — **HTML, CSS & Tailwind CSS** — because good-looking UIs matter too.
+
+🗄️ My data lives in **MySQL & PostgreSQL** — structured, safe, and always ready to query.
+
+💡 Always learning. Always building. Always improving.
+
+⚡ **Qiziqarli fakt:** LeetCode-da 170 dan ortiq algoritmik masalalarni PHP-da yechganman.
 
 ---
 
