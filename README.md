@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:777BB4&height=250&section=header&text=Hasan%20Hafizov&fontSize=70&animation=fadeIn" />
   
-  <h3>🚀 Backend Developer | Laravel Enthusiast | Problem Solver</h3>
-  <p>Junior-Middle darajasidagi dasturchi, yuqori yuklamali tizimlar va mobil ilovalar yaratishga ishtiyoqi baland.</p>
 
   <p align="center">
     <a href="https://github.com/HHZPROGRAMMER">
