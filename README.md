@@ -19,10 +19,6 @@
 ### 📖 Men haqimda
 ### 👋 Hey there! I'm Hasan
 
-🚀 A passionate **Backend Developer** who loves building powerful web apps with **PHP & Laravel**, and occasionally dabbling in **Python** magic.
-
-📱 When I'm not writing server-side code, you'll find me crafting beautiful cross-platform apps with **Flutter**.
-
 📊 Curious about data? So am I! I enjoy exploring **Data Analytics** and experimenting with **Machine Learning** models to turn raw data into real insights.
 
 🎨 I also speak the language of the web — **HTML, CSS & Tailwind CSS** — because good-looking UIs matter too.
@@ -31,7 +27,7 @@
 
 💡 Always learning. Always building. Always improving.
 
-⚡ **Qiziqarli fakt:** LeetCode-da 170 dan ortiq algoritmik masalalarni PHP-da yechganman.
+⚡ Fun fact: Solved **200+ LeetCode problems** in PHP & Python — because why make it easy? 😄
 
 ---
 
