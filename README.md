@@ -45,35 +45,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HHZPROGRAMMER&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=777BB4" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHZPROGRAMMER&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF2D20&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HHZPROGRAMMER&theme=radical&hide_border=true&background=0d1117&ring=FF2D20&fire=777BB4&currStreakLabel=FF2D20" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HHZPROGRAMMER&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HHZPROGRAMMER&bg_color=0d1117&color=777BB4&line=FF2D20&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 ### 📫 Men bilan bog'laning
 
 <div align="center">
