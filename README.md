@@ -58,7 +58,6 @@ print(hasan)
                       ▼
                  ML Engineer
 
-
 <br>
 
 ## 🧰 Tech Stack & Skills
@@ -69,14 +68,14 @@ print(hasan)
 ### Machine Learning / Data
 <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
 <br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=00F0FF)
-![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logoColor=00F0FF)
+<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=00F0FF" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logoColor=00F0FF" alt="Seaborn" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi,laravel&theme=dark" />
 <br>
-![REST API](https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logoColor=00F0FF)
+<img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logoColor=00F0FF" alt="REST API" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue&theme=dark" />
@@ -84,7 +83,7 @@ print(hasan)
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
 <br>
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logoColor=00F0FF)
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logoColor=00F0FF" alt="SQL" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,jupyter&theme=dark" />
@@ -151,3 +150,4 @@ print(hasan)
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F0FF&height=150&section=footer&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=22&animation=fadeIn" width="100%" />
 </div>
+
