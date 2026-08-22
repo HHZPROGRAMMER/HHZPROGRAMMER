@@ -15,6 +15,99 @@
 
 ---
 
+<div align="center">
+
+  <img src="./assets/hasan.jpg"
+       width="220"
+       height="220"
+       style="border-radius: 50%; object-fit: cover;"
+       alt="Hasan Hafizov"/>
+
+  <h1>Hasan Hafizov</h1>
+
+  <p>
+    <strong>Machine Learning Engineer in Progress</strong>
+  </p>
+
+  <p>
+    Python • Machine Learning • Data Science • FastAPI • Laravel
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Data+Science;Python+%7C+Pandas+%7C+NumPy;Scikit-learn+%7C+EDA+%7C+Statistics;FastAPI+%7C+Laravel;Build.+Learn.+Improve." />
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm Hasan, a Computer Science student focused on **Machine Learning and Data Science**.
+
+Currently working with:
+
+- 🐍 Python
+- 📊 Pandas & NumPy
+- 📈 Matplotlib & Seaborn
+- 🤖 Scikit-learn
+- 🧠 Statistics & Probability
+- 📐 Linear Algebra & Calculus
+- 🚀 Linear Regression & Logistic Regression
+- ⚡ FastAPI
+- 🔥 Laravel
+
+I'm currently building Machine Learning projects and learning how to take models from **data → EDA → preprocessing → training → evaluation → deployment**.
+
+---
+
+### 🧠 Machine Learning Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+### ⚡ Backend
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+</p>
+
+---
+
+### 🚀 Featured Project
+
+### 🏠 House Price Prediction
+
+**Machine Learning | Linear Regression**
+
+```text
+EDA
+ ↓
+Data Cleaning
+ ↓
+Feature Selection
+ ↓
+Train / Test Split
+ ↓
+StandardScaler
+ ↓
+Linear Regression
+ ↓
+MAE / RMSE / R²
+ ↓
+Residual Analysis
+
+
 ### 👋 About Me
 
 I'm **Hasan**, a Computer Science student focused on **Machine Learning, Data Analysis, and Software Engineering**.
