@@ -3,15 +3,18 @@
 <table>
 <tr>
 
-<td width="7%" align="center">
+<td width="6%" align="center" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:0D1117&height=900&width=45&section=header&animation=fadeIn" width="28" alt="Left neon decoration">
+<img src="./assets/left-wave.gif"
+     width="32"
+     height="850"
+     alt="Animated left wave">
 
 </td>
 
-<td width="86%" align="center">
+<td width="88%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=190&section=header&text=HASAN%20HAFIZOV&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Python%20%7C%20Machine%20Learning%20%7C%20Algorithms&descAlignY=60&descSize=17" width="100%" alt="Hasan Hafizov">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=190&section=header&text=HASAN%20HAFIZOV&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Machine%20Learning%20%7C%20Algorithms&descAlignY=60&descSize=17" width="100%" alt="Hasan Hafizov">
 
 <br>
 
@@ -25,7 +28,7 @@
 <img src="https://img.shields.io/github/followers/HHZPROGRAMMER?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers">
 </a>
 
-<br><br>
+---
 
 ### 🧠 Python • Data Science • Machine Learning
 
@@ -41,7 +44,7 @@ I'm a **Software Engineering student** focused on **Python, Data Science and Mac
 
 I work with real datasets, study the mathematics behind ML, build models and practice algorithms.
 
-<br>
+<div align="center">
 
 | 🎯 Focus | 🚀 Goal | 🧠 Current |
 |:---:|:---:|:---:|
@@ -49,69 +52,47 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 | Data Science | Deep Learning | Statistics |
 | Algorithms & DSA | Real ML Projects | Mathematics |
 
+</div>
+
 ---
 
 ## ⚡ My Stack
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=python,cpp,numpy,pandas&theme=dark" height="48">
 
-### 🐍 Programming
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" height="48">
 
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" height="48" alt="Python C++">
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊 Data & ML
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" height="48" alt="NumPy Pandas">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="48">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF" height="32" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF">
 
-</td>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=matplotlib&logoColor=00D9FF">
 
-<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=flat-square&logo=python&logoColor=00D9FF">
 
-### 🌐 Backend
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00D9FF">
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" height="48" alt="Django Flask FastAPI">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00D9FF">
 
-</td>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF">
 
-<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00D9FF">
 
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="48" alt="MySQL PostgreSQL SQLite">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=matplotlib&logoColor=00D9FF" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=flat-square&logo=python&logoColor=00D9FF" alt="Seaborn">
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00D9FF" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00D9FF" alt="GitHub">
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker">
-<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00D9FF" alt="Linux">
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00D9FF" alt="Jupyter">
+</div>
 
 ---
 
 ## 🤖 Machine Learning
 
+<div align="center">
+
 `Python` → `NumPy` → `Pandas` → `Statistics` → `Mathematics` → `ML`
 
-<br>
+</div>
 
 <details>
 <summary>📈 <b>ML Knowledge</b></summary>
@@ -127,8 +108,6 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 `Overfitting` · `Underfitting` · `Data Leakage` · `Feature Engineering`
 
 </details>
-
-<br>
 
 <details>
 <summary>📐 <b>Math & Statistics</b></summary>
@@ -147,8 +126,6 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 </details>
 
-<br>
-
 <details>
 <summary>🧩 <b>Algorithms & DSA</b></summary>
 
@@ -156,9 +133,7 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 `Arrays` · `Strings` · `Sorting` · `Recursion`
 
-`Linked Lists` · `Binary Trees` · `BFS` · `DFS`
-
-`LeetCode` · `Problem Solving`
+`Linked Lists` · `Binary Trees` · `BFS` · `DFS` · `LeetCode`
 
 </details>
 
@@ -166,15 +141,21 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 ## 🎯 Currently Learning
 
+<div align="center">
+
 **Statistics** · **Probability** · **Linear Algebra** · **Machine Learning**
 
 <br>
 
 ### 🧠 Next → Deep Learning
 
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HHZPROGRAMMER/HHZPROGRAMMER/output/github-contribution-grid-snake-dark.svg">
@@ -182,27 +163,24 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 <img src="https://raw.githubusercontent.com/HHZPROGRAMMER/HHZPROGRAMMER/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
 
+</div>
+
 ---
 
-### 🚀 Building Towards ML Engineering
-
-**Python** → **Data Science** → **Mathematics** → **Machine Learning** → **Deep Learning** → **ML Engineer**
+### 🚀 Python → Data Science → Mathematics → Machine Learning → Deep Learning → ML Engineer
 
 <br>
 
-<a href="https://github.com/HHZPROGRAMMER">
-<img src="https://img.shields.io/badge/GitHub-HHZPROGRAMMER-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub">
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=110&section=footer&animation=fadeIn" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated Footer">
 
 </td>
 
-<td width="7%" align="center">
+<td width="6%" align="center" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:0D1117&height=900&width=45&section=header&animation=fadeIn" width="28" alt="Right neon decoration">
+<img src="./assets/right-wave.gif"
+     width="32"
+     height="850"
+     alt="Animated right wave">
 
 </td>
 
