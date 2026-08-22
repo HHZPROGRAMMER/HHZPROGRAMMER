@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=200&section=header&text=HASAN%20HAFIZOV&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Machine%20Learning%20%7C%20Algorithms&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=200&section=header&text=HASAN%20HAFIZOV&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Machine%20Learning%20%7C%20Algorithms&descAlignY=60&descSize=18" width="100%" alt="Hasan Hafizov" />
 
 <br>
 
@@ -8,9 +8,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HHZPROGRAMMER&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
-
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=HHZPROGRAMMER&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <a href="https://github.com/HHZPROGRAMMER?tab=followers">
 <img src="https://img.shields.io/github/followers/HHZPROGRAMMER?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" />
@@ -22,9 +20,9 @@
 
 <div align="center">
 
-## 🧠 Python • Data Science • Machine Learning
+### 🧠 Python • Data Science • Machine Learning
 
-**I turn data, mathematics and code into machine learning models.**
+**Turning mathematics and data into working models.**
 
 <br>
 
@@ -57,7 +55,7 @@ class Hasan:
 
     motto = "Learn → Build → Repeat"
 ⚡ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,numpy,pandas&theme=dark" alt="Python NumPy Pandas C++" />
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,numpy,pandas&theme=dark" alt="Python C++ NumPy Pandas" />
 
 <br><br>
 
@@ -79,7 +77,7 @@ class Hasan:
 
 Python → Data → Mathematics → Machine Learning
 
-</div> <br> <details> <summary>📈 <b>Machine Learning</b></summary> <br>
+</div> <br> <details> <summary>📈 <b>Machine Learning Knowledge</b></summary> <br>
 
 Models
 
@@ -87,7 +85,7 @@ Linear Regression · Logistic Regression
 
 Data Preparation
 
-Train/Test Split · StandardScaler · Feature Scaling
+Train / Test Split · StandardScaler · Feature Scaling
 
 Evaluation
 
@@ -120,8 +118,8 @@ Linked Lists · Binary Trees
 BFS · DFS · LeetCode
 
 </details>
-🎯 Currently Learning
 <div align="center">
+🎯 Currently Learning
 🤖 Machine Learning
 
 Statistics · Probability · Linear Algebra
@@ -135,15 +133,7 @@ Regression · Model Evaluation · Feature Engineering
 🧠 Next: Deep Learning
 </div>
 🐍 Contribution Snake
-<div align="center"> <picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HHZPROGRAMMER/HHZPROGRAMMER/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HHZPROGRAMMER/HHZPROGRAMMER/output/github-contribution-grid-snake.svg">
-
-<img src="https://raw.githubusercontent.com/HHZPROGRAMMER/HHZPROGRAMMER/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</picture> </div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HHZPROGRAMMER/HHZPROGRAMMER/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HHZPROGRAMMER/HHZPROGRAMMER/output/github-contribution-grid-snake.svg"> <img src="https://raw.githubusercontent.com/HHZPROGRAMMER/HHZPROGRAMMER/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"> </picture> </div>
 <div align="center">
 🚀 My Direction
 
