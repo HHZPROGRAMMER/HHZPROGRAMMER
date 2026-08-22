@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=190&section=header&text=HASAN%20HAFIZOV&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Machine%20Learning%20%7C%20Algorithms&descAlignY=60&descSize=17" width="100%" alt="Hasan Hafizov">
+<table>
+<tr>
+
+<td width="7%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:0D1117&height=900&width=45&section=header&animation=fadeIn" width="28" alt="Left neon decoration">
+
+</td>
+
+<td width="86%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=190&section=header&text=HASAN%20HAFIZOV&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Python%20%7C%20Machine%20Learning%20%7C%20Algorithms&descAlignY=60&descSize=17" width="100%" alt="Hasan Hafizov">
 
 <br>
 
@@ -14,11 +25,7 @@
 <img src="https://img.shields.io/github/followers/HHZPROGRAMMER?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers">
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ### 🧠 Python • Data Science • Machine Learning
 
@@ -26,15 +33,7 @@
 
 `Learn` → `Build` → `Solve` → `Improve`
 
-</div>
-
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0066FF&height=8&section=header&reversal=true" width="90%" alt="Blue divider">
-
-</div>
 
 ## 👨‍💻 About Me
 
@@ -42,7 +41,7 @@ I'm a **Software Engineering student** focused on **Python, Data Science and Mac
 
 I work with real datasets, study the mathematics behind ML, build models and practice algorithms.
 
-<div align="center">
+<br>
 
 | 🎯 Focus | 🚀 Goal | 🧠 Current |
 |:---:|:---:|:---:|
@@ -50,19 +49,9 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 | Data Science | Deep Learning | Statistics |
 | Algorithms & DSA | Real ML Projects | Mathematics |
 
-</div>
-
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=8&section=header" width="75%" alt="Cyan divider">
-
-</div>
-
-## ⚡ Tech Stack
-
-<div align="center">
+## ⚡ My Stack
 
 <table>
 <tr>
@@ -71,8 +60,6 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 ### 🐍 Programming
 
-<br>
-
 <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" height="48" alt="Python C++">
 
 </td>
@@ -80,8 +67,6 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 <td align="center" width="25%">
 
 ### 📊 Data & ML
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" height="48" alt="NumPy Pandas">
 
@@ -95,8 +80,6 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 ### 🌐 Backend
 
-<br>
-
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" height="48" alt="Django Flask FastAPI">
 
 </td>
@@ -104,8 +87,6 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 <td align="center" width="25%">
 
 ### 🗄️ Database
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="48" alt="MySQL PostgreSQL SQLite">
 
@@ -124,15 +105,11 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00D9FF" alt="Linux">
 <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00D9FF" alt="Jupyter">
 
-</div>
-
 ---
 
 ## 🤖 Machine Learning
 
-<div align="center">
-
-**Python** → **NumPy** → **Pandas** → **Statistics** → **Mathematics** → **ML**
+`Python` → `NumPy` → `Pandas` → `Statistics` → `Mathematics` → `ML`
 
 <br>
 
@@ -141,11 +118,13 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 <br>
 
-`Linear Regression` · `Logistic Regression` · `Train/Test Split` · `StandardScaler`
+`Linear Regression` · `Logistic Regression` · `Train/Test Split`
 
-`MSE` · `RMSE` · `MAE` · `Loss Functions` · `Model Evaluation`
+`StandardScaler` · `Feature Scaling` · `MSE` · `RMSE` · `MAE`
 
-`Overfitting` · `Underfitting` · `Data Leakage` · `Feature Scaling` · `Feature Engineering`
+`Loss Functions` · `Model Evaluation`
+
+`Overfitting` · `Underfitting` · `Data Leakage` · `Feature Engineering`
 
 </details>
 
@@ -158,9 +137,11 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 `Derivatives` · `Partial Derivatives` · `Gradient` · `Gradient Descent`
 
-`Linear Algebra` · `Probability` · `Conditional Probability` · `Bayes Theorem`
+`Linear Algebra` · `Probability` · `Conditional Probability`
 
-`Expected Value` · `Variance` · `Covariance` · `Correlation`
+`Bayes Theorem` · `Expected Value` · `Variance` · `Covariance`
+
+`Correlation` · `Standard Deviation`
 
 `Normal` · `Binomial` · `Poisson`
 
@@ -175,19 +156,15 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 `Arrays` · `Strings` · `Sorting` · `Recursion`
 
-`Linked Lists` · `Binary Trees` · `BFS` · `DFS` · `LeetCode`
+`Linked Lists` · `Binary Trees` · `BFS` · `DFS`
+
+`LeetCode` · `Problem Solving`
 
 </details>
 
-</div>
-
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0066FF&height=8&section=header" width="60%" alt="Blue divider">
-
-### 🎯 Currently Learning
+## 🎯 Currently Learning
 
 **Statistics** · **Probability** · **Linear Algebra** · **Machine Learning**
 
@@ -195,13 +172,9 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 ### 🧠 Next → Deep Learning
 
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
-
-<div align="center">
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HHZPROGRAMMER/HHZPROGRAMMER/output/github-contribution-grid-snake-dark.svg">
@@ -209,17 +182,11 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 <img src="https://raw.githubusercontent.com/HHZPROGRAMMER/HHZPROGRAMMER/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
 
-</div>
-
 ---
 
-<div align="center">
+### 🚀 Building Towards ML Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=7&section=footer" width="88%" alt="Cyan line">
-
-<br><br>
-
-### 🚀 Python → Data Science → Mathematics → ML → Deep Learning
+**Python** → **Data Science** → **Mathematics** → **Machine Learning** → **Deep Learning** → **ML Engineer**
 
 <br>
 
@@ -229,6 +196,15 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer animation">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=110&section=footer&animation=fadeIn" width="100%" alt="Footer">
 
-</div>
+</td>
+
+<td width="7%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:0D1117&height=900&width=45&section=header&animation=fadeIn" width="28" alt="Right neon decoration">
+
+</td>
+
+</tr>
+</table>
