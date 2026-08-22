@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HHZPROGRAMMER&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=HHZPROGRAMMER&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views">
 
 <a href="https://github.com/HHZPROGRAMMER?tab=followers">
 <img src="https://img.shields.io/github/followers/HHZPROGRAMMER?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers">
@@ -30,6 +30,12 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0066FF&height=8&section=header&reversal=true" width="90%" alt="Blue divider">
+
+</div>
+
 ## 👨‍💻 About Me
 
 I'm a **Software Engineering student** focused on **Python, Data Science and Machine Learning**.
@@ -40,7 +46,7 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 | 🎯 Focus | 🚀 Goal | 🧠 Current |
 |:---:|:---:|:---:|
-| Python | Machine Learning Engineer | Machine Learning |
+| Python | ML Engineer | Machine Learning |
 | Data Science | Deep Learning | Statistics |
 | Algorithms & DSA | Real ML Projects | Mathematics |
 
@@ -48,17 +54,26 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=8&section=header" width="75%" alt="Cyan divider">
+
+</div>
+
 ## ⚡ Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🐍 Programming
 
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" height="45" alt="Python C++">
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" height="48" alt="Python C++">
 
 </td>
 
@@ -66,19 +81,23 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 ### 📊 Data & ML
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" height="45" alt="NumPy Pandas">
-
 <br>
 
-<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=00D9FF" height="22" alt="Scikit-learn">
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" height="48" alt="NumPy Pandas">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF" height="32" alt="Scikit-learn">
 
 </td>
 
 <td align="center" width="25%">
 
-### 🌐 Python Backend
+### 🌐 Backend
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" height="45" alt="Django Flask FastAPI">
+<br>
+
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" height="48" alt="Django Flask FastAPI">
 
 </td>
 
@@ -86,9 +105,12 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="45" alt="MySQL PostgreSQL SQLite">
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="48" alt="MySQL PostgreSQL SQLite">
 
 </td>
+
 </tr>
 </table>
 
@@ -110,9 +132,9 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 <div align="center">
 
-`Python` → `NumPy` → `Pandas` → `Statistics` → `Mathematics` → `ML`
+**Python** → **NumPy** → **Pandas** → **Statistics** → **Mathematics** → **ML**
 
-</div>
+<br>
 
 <details>
 <summary>📈 <b>ML Knowledge</b></summary>
@@ -127,6 +149,8 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 </details>
 
+<br>
+
 <details>
 <summary>📐 <b>Math & Statistics</b></summary>
 
@@ -136,40 +160,40 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 `Linear Algebra` · `Probability` · `Conditional Probability` · `Bayes Theorem`
 
-`Expected Value` · `Variance` · `Covariance` · `Correlation` · `Standard Deviation`
+`Expected Value` · `Variance` · `Covariance` · `Correlation`
 
 `Normal` · `Binomial` · `Poisson`
 
 </details>
+
+<br>
 
 <details>
 <summary>🧩 <b>Algorithms & DSA</b></summary>
 
 <br>
 
-`Arrays` · `Strings` · `Sorting` · `Recursion` · `Linked Lists`
+`Arrays` · `Strings` · `Sorting` · `Recursion`
 
-`Binary Trees` · `BFS` · `DFS` · `LeetCode` · `Problem Solving`
+`Linked Lists` · `Binary Trees` · `BFS` · `DFS` · `LeetCode`
 
 </details>
 
----
+</div>
 
-## 🎯 Currently Learning
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Statistics-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Statistics">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0066FF&height=8&section=header" width="60%" alt="Blue divider">
 
-<img src="https://img.shields.io/badge/Probability-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Probability">
+### 🎯 Currently Learning
 
-<img src="https://img.shields.io/badge/Linear_Algebra-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Linear Algebra">
-
-<img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Machine Learning">
+**Statistics** · **Probability** · **Linear Algebra** · **Machine Learning**
 
 <br>
 
-### Next → 🧠 Deep Learning
+### 🧠 Next → Deep Learning
 
 </div>
 
@@ -191,11 +215,13 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 <div align="center">
 
-### 🚀 Building Towards
-
-**Python** → **Data Science** → **Mathematics** → **Machine Learning** → **Deep Learning** → **ML Engineer**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=7&section=footer" width="88%" alt="Cyan line">
 
 <br><br>
+
+### 🚀 Python → Data Science → Mathematics → ML → Deep Learning
+
+<br>
 
 <a href="https://github.com/HHZPROGRAMMER">
 <img src="https://img.shields.io/badge/GitHub-HHZPROGRAMMER-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub">
@@ -203,6 +229,6 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=110&section=footer&animation=fadeIn" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer animation">
 
 </div>
