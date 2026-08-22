@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=200&section=header&text=HASAN%20HAFIZOV&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Machine%20Learning%20%7C%20Algorithms&descAlignY=60&descSize=18" width="100%" alt="Hasan Hafizov">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=190&section=header&text=HASAN%20HAFIZOV&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Machine%20Learning%20%7C%20Algorithms&descAlignY=60&descSize=17" width="100%" alt="Hasan Hafizov">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2400&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Software+Engineering+Student;Python+Developer;Machine+Learning+Enthusiast;Algorithms+%26+DSA;Aspiring+ML+Engineer+%F0%9F%9A%80" alt="Typing animation">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Python+Developer;Machine+Learning+Enthusiast;Algorithms+%26+DSA;Aspiring+ML+Engineer+%F0%9F%9A%80" alt="Typing animation">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=HHZPROGRAMMER&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=HHZPROGRAMMER&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views">
 
 <a href="https://github.com/HHZPROGRAMMER?tab=followers">
 <img src="https://img.shields.io/github/followers/HHZPROGRAMMER?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers">
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 🧠 Python • Data Science • Machine Learning
+### 🧠 Python • Data Science • Machine Learning
 
 **Turning data and mathematics into working models.**
 
@@ -38,41 +38,69 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 <div align="center">
 
-| 🎯 Focus | 🚀 Goal |
-|:---:|:---:|
-| Python | Machine Learning |
-| Data Science | Deep Learning |
-| Algorithms & DSA | ML Engineer |
+| 🎯 Focus | 🚀 Goal | 🧠 Current |
+|:---:|:---:|:---:|
+| Python | Machine Learning Engineer | Machine Learning |
+| Data Science | Deep Learning | Statistics |
+| Algorithms & DSA | Real ML Projects | Mathematics |
 
 </div>
 
 ---
 
-## ⚡ My Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,numpy,pandas&theme=dark" alt="Python C++ NumPy Pandas">
+<table>
+<tr>
+<td align="center" width="25%">
 
-<br><br>
+### 🐍 Programming
 
-<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF" alt="Scikit-learn">
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" height="45" alt="Python C++">
 
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=matplotlib&logoColor=00D9FF" alt="Matplotlib">
+</td>
 
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Seaborn">
+<td align="center" width="25%">
 
-<br><br>
+### 📊 Data & ML
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" alt="Django Flask FastAPI">
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" height="45" alt="NumPy Pandas">
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="MySQL PostgreSQL SQLite">
+<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=00D9FF" height="22" alt="Scikit-learn">
 
-<br><br>
+</td>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,jupyter&theme=dark" alt="Git GitHub Docker Linux Jupyter">
+<td align="center" width="25%">
+
+### 🌐 Python Backend
+
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" height="45" alt="Django Flask FastAPI">
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="45" alt="MySQL PostgreSQL SQLite">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=matplotlib&logoColor=00D9FF" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=flat-square&logo=python&logoColor=00D9FF" alt="Seaborn">
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00D9FF" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00D9FF" alt="GitHub">
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00D9FF" alt="Linux">
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00D9FF" alt="Jupyter">
 
 </div>
 
@@ -86,35 +114,21 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 </div>
 
-<br>
-
 <details>
-<summary>📈 <b>Machine Learning Knowledge</b></summary>
+<summary>📈 <b>ML Knowledge</b></summary>
 
 <br>
 
-**Models**
+`Linear Regression` · `Logistic Regression` · `Train/Test Split` · `StandardScaler`
 
-`Linear Regression` · `Logistic Regression`
+`MSE` · `RMSE` · `MAE` · `Loss Functions` · `Model Evaluation`
 
-**Data**
-
-`Train/Test Split` · `StandardScaler` · `Feature Scaling`
-
-**Evaluation**
-
-`MSE` · `RMSE` · `MAE`
-
-**Concepts**
-
-`Loss Functions` · `Overfitting` · `Underfitting` · `Data Leakage` · `Feature Engineering`
+`Overfitting` · `Underfitting` · `Data Leakage` · `Feature Scaling` · `Feature Engineering`
 
 </details>
 
-<br>
-
 <details>
-<summary>📐 <b>Mathematics & Statistics</b></summary>
+<summary>📐 <b>Math & Statistics</b></summary>
 
 <br>
 
@@ -122,22 +136,20 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 `Linear Algebra` · `Probability` · `Conditional Probability` · `Bayes Theorem`
 
-`Expected Value` · `Variance` · `Covariance` · `Correlation`
+`Expected Value` · `Variance` · `Covariance` · `Correlation` · `Standard Deviation`
 
-`Standard Deviation` · `Normal Distribution` · `Binomial Distribution` · `Poisson Distribution`
+`Normal` · `Binomial` · `Poisson`
 
 </details>
-
-<br>
 
 <details>
 <summary>🧩 <b>Algorithms & DSA</b></summary>
 
 <br>
 
-`Arrays` · `Strings` · `Sorting` · `Recursion`
+`Arrays` · `Strings` · `Sorting` · `Recursion` · `Linked Lists`
 
-`Linked Lists` · `Binary Trees` · `BFS` · `DFS` · `LeetCode`
+`Binary Trees` · `BFS` · `DFS` · `LeetCode` · `Problem Solving`
 
 </details>
 
@@ -147,17 +159,17 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 <div align="center">
 
-### 🤖 Machine Learning
+<img src="https://img.shields.io/badge/Statistics-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Statistics">
 
-**Statistics** → **Probability** → **Linear Algebra**
+<img src="https://img.shields.io/badge/Probability-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Probability">
 
-↓
+<img src="https://img.shields.io/badge/Linear_Algebra-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Linear Algebra">
 
-**Regression** → **Model Evaluation** → **Feature Engineering**
+<img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Machine Learning">
 
-↓
+<br>
 
-### 🧠 Next: Deep Learning
+### Next → 🧠 Deep Learning
 
 </div>
 
@@ -179,33 +191,9 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 <div align="center">
 
-## 🚀 My Direction
+### 🚀 Building Towards
 
-**🐍 Python**
-
-↓
-
-**📊 Data Science**
-
-↓
-
-**📐 Mathematics**
-
-↓
-
-**🤖 Machine Learning**
-
-↓
-
-**🧠 Deep Learning**
-
-↓
-
-**🚀 ML Engineer**
-
-<br>
-
-`Keep learning. Keep building. Keep improving.`
+**Python** → **Data Science** → **Mathematics** → **Machine Learning** → **Deep Learning** → **ML Engineer**
 
 <br><br>
 
@@ -215,6 +203,6 @@ I work with real datasets, study the mathematics behind ML, build models and pra
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=110&section=footer&animation=fadeIn" width="100%" alt="Footer">
 
 </div>
