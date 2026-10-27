@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### 🧠 Python • Data Science • Machine Learning
+## Python • Data Science • Machine Learning
 
 **Turning data and mathematics into working models.**
 
